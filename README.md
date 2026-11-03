@@ -3,3 +3,4 @@ Présentation du projet de robotique industrielle consacré à l'automatisation 
 
 le lien pour visioner la video :
 https://drive.google.com/file/d/1eN0Ptsi9CEYnIu7CTPZ2oJMMC0DEgWPl/view?usp=sharing     
+# Contribution de Mitsouka LUMERANT
